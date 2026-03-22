@@ -1,0 +1,33 @@
+[submodule "amc10_mocks/github_tools/amc_pdf_tool"]
+	path = amc10_mocks/github_tools/amc_pdf_tool
+	url = https://github.com/byronxu99/amc-pdf.git
+[submodule "amc10_mocks/github_tools/amc_prep"]
+	path = amc10_mocks/github_tools/amc_prep
+	url = https://github.com/mchen910/amc-prep.git
+[submodule "amc10_mocks/github_tools/AMC_ProblemSetCreator"]
+	path = amc10_mocks/github_tools/AMC_ProblemSetCreator
+	url = https://github.com/cymcymcymcym/amc_problem_set_creator.git
+[submodule "amc10_mocks/github_tools/AMC_Tesseract"]
+	path = amc10_mocks/github_tools/AMC_Tesseract
+	url = https://github.com/amctesseract/amctesseract.github.io.git
+[submodule "amc10_mocks/github_tools/AMC_Trainer"]
+	path = amc10_mocks/github_tools/AMC_Trainer
+	url = https://github.com/andrewboldi/AMC-Trainer.git
+[submodule "amc10_mocks/github_tools/AMC_TrainingProblems"]
+	path = amc10_mocks/github_tools/AMC_TrainingProblems
+	url = https://github.com/iuruoy-shao/training-problems.git
+[submodule "amc10_mocks/github_tools/AMC_WorksheetGenerator"]
+	path = amc10_mocks/github_tools/AMC_WorksheetGenerator
+	url = https://github.com/Prachurja/AMC-Worksheet-Generator.git
+[submodule "amc10_mocks/github_tools/DeToasty3_website"]
+	path = amc10_mocks/github_tools/DeToasty3_website
+	url = https://github.com/detoasty3/detoasty3.github.io.git
+[submodule "amc10_mocks/github_tools/MockAMC_source"]
+	path = amc10_mocks/github_tools/MockAMC_source
+	url = https://github.com/mockamc/mockamc.github.io.git
+[submodule "amc10_mocks/github_tools/PrepAMC"]
+	path = amc10_mocks/github_tools/PrepAMC
+	url = https://github.com/arjvik/prepamc.git
+[submodule "amc10_mocks/github_tools/ProblemBank"]
+	path = amc10_mocks/github_tools/ProblemBank
+	url = https://github.com/Octophi/pbank.git
