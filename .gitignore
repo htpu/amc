@@ -1,0 +1,20 @@
+# Downloaded PDFs (large binary files)
+amc10_mocks/*.pdf
+amc10_mocks/*.txt
+*.pdf
+*.txt
+
+# macOS
+.DS_Store
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+venv/
+.venv/
+
+# Downloaded git repos (source tools are in github_tools/ already)
+# Git
+.git/
